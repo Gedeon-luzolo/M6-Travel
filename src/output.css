@@ -683,6 +683,11 @@ video {
   height: 80%;
 }
 
+.size-\[75\%\] {
+  width: 75%;
+  height: 75%;
+}
+
 .h-1 {
   height: 0.25rem;
 }
@@ -973,6 +978,10 @@ video {
 
 .text-center {
   text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
 }
 
 .text-2xl {
