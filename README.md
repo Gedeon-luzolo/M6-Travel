@@ -5,7 +5,7 @@ Bienvenue dans le dépôt GitHub de M6 TRAVEL. Ce projet est conçu pour [ parta
 
 ## Description du projet
 
-[M6 TRAVEL] est une plateforme web construite avec [technologies et outils utilisés, ex. : HTML, CSS, JavaScript]. 
+[M6 TRAVEL] est une plateforme web construite avec [ HTML, CSS, JavaScript]. 
 ## Technologies utilisées
 
 - **Frontend** :  Html, Javacript et Tailwinds css
