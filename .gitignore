@@ -1,0 +1,54 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Tailwind CSS
+.tailwind/
+tailwind.config.js
+tailwind.config.ts
+
+# Build outputs
+dist/
+build/
+public/
+out/
+*.css.map
+*.min.css
+*.min.js
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.cache
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+
+
+# IDEs and editors
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Mac system files
+.DS_Store
+._*
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
